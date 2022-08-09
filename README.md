@@ -39,10 +39,10 @@ Thus, the search for the necessary data in the table will take the shortest poss
 
 
 [1]:https://registry.opendata.aws/nyc-tlc-trip-records-pds/
-[2]:https://github.com/Amboss/hadoop_hive/blob/master/data/dawnload_s3_data.sh
-[3]:https://github.com/Amboss/hadoop_hive/blob/master/scrpts/table_dict.sql
-[4]:https://github.com/Amboss/hadoop_hive/blob/master/scrpts/table_fact.sql
-[5]:https://github.com/Amboss/hadoop_hive/blob/master/scrpts/insert_to_table_fact.sql
-[6]:https://github.com/Amboss/hadoop_hive/blob/master/scrpts/view.sql
-[7]:https://github.com/Amboss/hadoop_hive/blob/master/scrpts/run.sh
-[8]:https://github.com/Amboss/hadoop_hive/blob/master/scrpts/rebuild.sh
+[2]: https://github.com/s-evsyukov/hadoop_hive/blob/94f63d5db2d1f6c66f492fff12db272ab8368574/data/dawnload_s3_data.sh
+[3]: https://github.com/s-evsyukov/hadoop_hive/blob/94f63d5db2d1f6c66f492fff12db272ab8368574/scrpts/table_dict.sql
+[4]: https://github.com/s-evsyukov/hadoop_hive/blob/94f63d5db2d1f6c66f492fff12db272ab8368574/scrpts/table_fact.sql
+[5]: https://github.com/s-evsyukov/hadoop_hive/blob/94f63d5db2d1f6c66f492fff12db272ab8368574/scrpts/insert_to_table_fact.sql
+[6]: https://github.com/s-evsyukov/hadoop_hive/blob/94f63d5db2d1f6c66f492fff12db272ab8368574/scrpts/view.sql
+[7]: https://github.com/s-evsyukov/hadoop_hive/blob/94f63d5db2d1f6c66f492fff12db272ab8368574/scrpts/run.sh
+[8]: https://github.com/s-evsyukov/hadoop_hive/blob/94f63d5db2d1f6c66f492fff12db272ab8368574/scrpts/rebuild.sh
